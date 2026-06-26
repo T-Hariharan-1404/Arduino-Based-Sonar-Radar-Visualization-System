@@ -1,3 +1,5 @@
+# Arduino Code
+
 This folder contains the Arduino sketch responsible for:
 
 - Rotating the servo motor
